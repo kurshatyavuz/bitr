@@ -1,0 +1,9 @@
+com\bitrix\step_definitions\Hook.class
+com\bitrix\pages\login_navigation\LoginPage.class
+com\bitrix\utilities\BasePage.class
+com\bitrix\step_definitions\LoginStepDefinitions.class
+com\bitrix\utilities\Driver.class
+com\bitrix\runners\CukesRunner.class
+com\bitrix\utilities\ConfigurationReader.class
+com\bitrix\utilities\BrowserUtils.class
+com\bitrix\utilities\Pages.class
